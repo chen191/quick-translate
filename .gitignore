@@ -1,0 +1,11 @@
+build/
+release/
+.verification/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.log
